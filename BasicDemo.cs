@@ -23,7 +23,7 @@ namespace ApplitoolsTutorial
         {
             // Initialize the eyes SDK (IMPORTANT: make sure your API key is set in the APPLITOOLS_API_KEY env variable).
             eyes = new Eyes();
-            eyes.ApiKey = "VJMt4z4djBoqW40fclJgEpLGuwGppgZ98m5wtUuWhru0110";
+            //eyes.ApiKey = Environment.GetEnvironmentVariable("APPLITOOLS_API_KEY");//"VJMt4z4djBoqW40fclJgEpLGuwGppgZ98m5wtUuWhru0110";
             // Set the desired capabilities.
             AppiumOptions options = new AppiumOptions();
             /*options.AddAdditionalCapability(MobileCapabilityType.DeviceName, "Samsung Galaxy S10");
