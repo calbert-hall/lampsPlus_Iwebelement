@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{862648E7-22A7-4CF9-9583-B4A3B7B59B74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicDemo.cs">
+    <Files>
+      <File FileName="BasicDemo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApplitoolsTutorial" expanded="True">
+            <Node name="ApplitoolsTutorial" expanded="True">
+              <Node name="BasicDemo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ApplitoolsTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
